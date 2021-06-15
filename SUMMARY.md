@@ -11,7 +11,7 @@
 ## PTR
 
 * [Log](ptr/untitled.md)
-* [Untitled](ptr/untitled-1.md)
+* [Super-Power](ptr/untitled-1.md)
 
 ## PTM
 
